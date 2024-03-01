@@ -2,82 +2,115 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Adrika Chowdhury
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st September 2002
     - name: Languages
-      value: English, German
+      value: English, Bangla
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: BSc (Hons.)
+      institution: Asian University for Women (AUW), Chattogram
+      year: 2025
+     # description:
+        #- Description 1.
+       # - Description 2.
+        #- title: Description 3.
+        #  contents:
+           # - Sub-description 1.
+          #  - Sub-description 2.
+    - title: Higher Secondary Certificate (HSC)
+      institution: College of Science Business and Humanities (CSBH), Chattogram
+      year: 2020
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graphics Designer and Editor
+      institution: Asian University for Women (AUW), Chattogram
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as the graphics designer and editor for the Culinary Chef Club
+        # - Description 2.
         - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+           contents:
+             - Designed several engaging posters, banners, leaflets, social media posts, etc. through the Canva application.
+        #     - Sub-description 2.
+    - title: Teaching Assistant
+      institution: Asian University for Women (AUW), Chattogram
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as a teaching assistant for Reading Across the Disciplines (RAD) and English as Second Language (ESL) courses of Pre-UG
+      #  - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Enumerator
+      institution: Bangladesh Institute of Labour Studies (BILS), Chattogram
+      year: 2022
       description:
+        - Worked as a data collector for a project regarding the decent working environment and worker’s rights in the industrial establishment under Chittagong University (CU)
+      
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Extracurricular Activities
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Organizing Committee Member
+      institution: Asian University for Women (AUW), Chattogram
+      year: 2023
+      description:
+        - Worked as an organizing committee member for the Intervarsity Debate Championship
 
-- title: Honors and Awards
+    - title: Millenium Fellow
+      institution: Millenium Campus Network (MCN)
+      year: 2022
+      description:
+        - Worked on a project for 4 months named ‘Khaddo Daan’ as the Graphics Designer of the project, focusing on SDG 2 (Zero Hunger) under United Nations Academic Impact (UNAI)
+
+        - title: Public Relations Volunteer
+      institution: Asian University for Women (AUW), Chattogram
+      year: 2021
+      description:
+        - Worked as a public relations managing volunteer for the 9th Photography Carnival
+
+- title: Certifications
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Code In Place Certification
+      year: 2023
+      description: Completed the online course <i>“Introduction to Python (CS106A)”</i> offered by Standford University.
+    - title: Cisco Certification
+      year: 2023
+      description: Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://codeinplace.stanford.edu/cip3/share/McylTlErjRhbrGLVtDCS">Python Programming</a>
+      year: 2023
+      description: Developed a final graphics project for the Code In Place Certification course using Python Programming.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
