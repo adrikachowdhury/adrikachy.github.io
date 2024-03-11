@@ -35,11 +35,11 @@
       institution: Asian University for Women (AUW), Chattogram
       year: 2022 - 2023
       description:
-        - Worked as the graphics designer and editor for the Culinary Chef Club
+        - I worked as the graphics designer and editor for the Culinary Chef Club. Here, I used to design several engaging posters, banners, leaflets, social media posts, etc. through the Canva application.
         # - Description 2.
-        - title: Description 3.
-           contents:
-             - Designed several engaging posters, banners, leaflets, social media posts, etc. through the Canva application.
+        # - title: Description 3.
+        #    contents:
+        #      - Designed.
         #     - Sub-description 2.
     - title: Teaching Assistant
       institution: Asian University for Women (AUW), Chattogram
@@ -78,7 +78,7 @@
       description:
         - Worked on a project for 4 months named ‘Khaddo Daan’ as the Graphics Designer of the project, focusing on SDG 2 (Zero Hunger) under United Nations Academic Impact (UNAI)
 
-        - title: Public Relations Volunteer
+    - title: Public Relations Volunteer
       institution: Asian University for Women (AUW), Chattogram
       year: 2021
       description:
@@ -90,6 +90,7 @@
     - title: Code In Place Certification
       year: 2023
       description: Completed the online course <i>“Introduction to Python (CS106A)”</i> offered by Standford University.
+  
     - title: Cisco Certification
       year: 2023
       description: Completed beginner-level “Introduction to Cybersecurity” course under the Cisco Networking Academy.
@@ -101,30 +102,28 @@
       year: 2023
       description: Developed a final graphics project for the Code In Place Certification course using Python Programming.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+- title: Awards
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2023
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Award for hosting the yearly Food Fest on behalf of the Culinary Chef Club
+    - year: 2019
       items:
-        - Description 1.
-        - Description 2.
+        - 2nd position for outstanding academic performance in college 1st year
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Painting, Listening to Music, etc.
